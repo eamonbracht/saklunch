@@ -176,8 +176,7 @@ header {
             position: absolute;
             right: 0;
             top: 0;
-            text-align: right;
-            position: fixed;
+            /* text-align: right; */
             font-size: 150%;
             transition: 300ms all ease;
         }
@@ -206,7 +205,6 @@ header {
         flex: 1;
         transform: 300ms all ease;
         width: 100%;
-        position: fixed;
         z-index: 100000;
     }
  
