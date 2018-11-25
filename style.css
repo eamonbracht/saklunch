@@ -35,12 +35,16 @@ html, body {
     /* padding-bottom: 10%; */
 }
 .content h1 {
-    font-family: 'Inconsolata', monospace;
+    font-family: 'Courier';
     font-size: .25 vmin;
     font-weight: 100;
     color: black;
     line-height: 70%;
 } 
+.text-center.text-md-left.mt-5 {
+    font-family: 'Courier';
+
+}
 @media screen and (max-width: 900px) {
     .content {
         padding-bottom: 30%;
